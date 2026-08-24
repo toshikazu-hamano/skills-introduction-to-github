@@ -10,7 +10,7 @@ _コミットできました！ :sparkles:_
 
 コミットの後、「ブランチに push がありました」というメッセージと **Compare & pull request** ボタンが表示されているかもしれません。
 
-![Compare & pull request](../images/compare-pull-request-button.png)
+![Compare & pull request](https://github.com/toshikazu-hamano/skills-introduction-to-github/blob/main/.github/images/compare-pull-request-button.png?raw=true)
 
 **Compare & pull request** を押せば自動で作成画面に進めます。押した場合は下の 5 へ進んでください。練習のため、1〜4 の手動手順で作ることもできます。
 
@@ -21,7 +21,7 @@ _コミットできました！ :sparkles:_
    - **base:** `main`
    - **compare:** `my-first-branch`
 
-   ![ブランチの選択](../images/branch-selection-comparison.png)
+   ![ブランチの選択](https://github.com/toshikazu-hamano/skills-introduction-to-github/blob/main/.github/images/branch-selection-comparison.png?raw=true)
 
 4. **Create pull request** をクリックします。
 
@@ -29,7 +29,7 @@ _コミットできました！ :sparkles:_
 
 6. 次の欄は変更の**説明**です。ここまでにやったことを短く書きます。やったことは、新しいブランチを作った、ファイルを作った、コミットした、の 3 つです。
 
-   ![pull request の作成](../images/create-pull-request-form.png)
+   ![pull request の作成](https://github.com/toshikazu-hamano/skills-introduction-to-github/blob/main/.github/images/create-pull-request-form.png?raw=true)
 
 7. **Create pull request** をクリックします。
 

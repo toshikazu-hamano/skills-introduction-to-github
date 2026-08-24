@@ -24,7 +24,7 @@ _「Introduction to GitHub」へようこそ！ :wave:_
 GitHub のプロフィールに置く「自己紹介」で、GitHub.com のコミュニティに自分の情報を伝えられます。
 GitHub はプロフィール README をプロフィールページの上部に表示します。詳しくは「[プロフィール README を管理する](https://docs.github.com/ja/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)」を参照してください。
 
-![プロフィール README の例](../images/example-profile-readme.png)
+![プロフィール README の例](https://github.com/toshikazu-hamano/skills-introduction-to-github/blob/main/.github/images/example-profile-readme.png?raw=true)
 
 ### :keyboard: やること: 最初のブランチ
 
@@ -32,11 +32,11 @@ GitHub はプロフィール README をプロフィールページの上部に�
 
 2. リポジトリ上部のメニューで **< > Code** タブを開きます。
 
-   ![Code タブ](../images/code-tab-highlight.png)
+   ![Code タブ](https://github.com/toshikazu-hamano/skills-introduction-to-github/blob/main/.github/images/code-tab-highlight.png?raw=true)
 
 3. **main** と書かれたブランチのドロップダウンをクリックします。
 
-   <img width="300" alt="ブランチ選択" src="../images/branch-selection-dropdown.png">
+   <img width="300" alt="ブランチ選択" src="https://github.com/toshikazu-hamano/skills-introduction-to-github/blob/main/.github/images/branch-selection-dropdown.png?raw=true">
 
 4. **Find or create a branch...** の入力欄に `my-first-branch` と入力します。
 
@@ -44,7 +44,7 @@ GitHub はプロフィール README をプロフィールページの上部に�
 
 5. **Create branch: `my-first-branch` from main** という文字をクリックしてブランチを作ります。
 
-   <img width="300" alt="ブランチ作成" src="../images/create-branch-prompt.png">
+   <img width="300" alt="ブランチ作成" src="https://github.com/toshikazu-hamano/skills-introduction-to-github/blob/main/.github/images/create-branch-prompt.png?raw=true">
 
    - 作ったブランチに自動で切り替わります。
    - ドロップダウンの表示が新しいブランチ名になります。
